@@ -119,13 +119,13 @@ under the License.
      -->
         <server>
             <id>s3.release</id>
-            <username>AKIAI2LGBHRGPKSMWFPQ</username>
-            <password>jnSitz6cucRwxLrf40VHEhV4hFjsFKAs3izPGXRd</password>
+            <username>xyzv</username>
+            <password>blablah</password>
         </server>
         <server>
             <id>s3.snapshot</id>
-            <username>AKIAI2LGBHRGPKSMWFPQ</username>
-            <password>jnSitz6cucRwxLrf40VHEhV4hFjsFKAs3izPGXRd</password>
+            <username>xyzav</username>
+            <password>blabla</password>
         </server>
 
 
